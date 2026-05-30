@@ -1,6 +1,6 @@
 # Product Intern Assignment 2026 — Vocallabs.ai Teardown
 
-**Submitted by:** [Your Name]  
+**Submitted by:** Dhanush Rudroju  
 **Deadline:** 31 May 2026  
 **Company chosen:** Vocallabs.ai
 
